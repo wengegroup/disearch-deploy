@@ -10,6 +10,7 @@
 ### 一、安装目录说明
     “.”表示解压安装包的当前目录，例如：
     #tar -xvf disearch-v1.0.0-7.11.1.tat.gz
+    #chmod 755 -R disearch-v1.0.0-7.11.1
     #cd disearch-v1.0.0-7.11.1
 
 1、安装目录说明
