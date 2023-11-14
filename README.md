@@ -107,6 +107,7 @@
 #### 3、初始化本地环境
     使用root用户，在disearch根目录/bin，运行 deploy_es.sh 脚本启动集群。
 
+    #chmod 755 -R 安装包解压后的目录
     #cd bin
     #sh deploy_es.sh
     >   成功标识：es deploy done!
